@@ -1,0 +1,7 @@
+dno,dname,loc
+10,Accounting,Dallas
+20,Operations,Newyork
+30,Reasarch,Australia
+40,IT,London
+10,ECE,India
+20,CS,UK
